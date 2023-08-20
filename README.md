@@ -4,10 +4,10 @@
 A simple Python script to convert SVG files in a given directory to PNG files.
 
 ## Requirements
-- `cairosvg`: You can install it via pip:
-  ```
-  pip install cairosvg
-  ```
+Install all requirements via pip:
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 Run the script and provide the path to the directory containing the SVG files:
